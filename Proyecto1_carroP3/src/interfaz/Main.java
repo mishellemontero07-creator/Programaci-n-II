@@ -9,5 +9,5 @@ void main() {
 
     c1.potencia = 5;
     c1.acelerar();
-    
+
 }
